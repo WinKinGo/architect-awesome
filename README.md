@@ -151,6 +151,7 @@
 		* [RocketMQ](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#rocketmq)
 		* [ActiveMQ](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#activemq)
 		* [Kafka](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#kafka)
+			*[Kafka中文文档](https://kafka.apachecn.org/documentation.html) 
 		* [Redis 消息推送](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#redis-消息推送)
 		* [ZeroMQ](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#zeromq)
 	* [定时调度](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#定时调度)
