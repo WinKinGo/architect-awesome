@@ -1350,6 +1350,7 @@ servlet 3.0 异步特性可用于配置中心的客户端
 ## 零拷贝（Zero-copy）
 * [《对于 Netty ByteBuf 的零拷贝(Zero Copy) 的理解》](https://www.cnblogs.com/xys1228/p/6088805.html)
 	* 多个物理分离的buffer，通过逻辑上合并成为一个，从而避免了数据在内存之间的拷贝。
+* [Linux 零拷贝](https://www.cnblogs.com/xiaolincoding/p/13719610.html)
 
 ## 序列化(二进制协议)
 
