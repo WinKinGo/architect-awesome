@@ -1460,7 +1460,7 @@ MyISAM 是非聚集，InnoDB 是聚集
 
 ## Lucene
 * [《Lucene入门简介》](https://www.cnblogs.com/rodge-run/p/6551152.html)
-
+* [fst](https://www.shenyanchao.cn/blog/2018/12/04/lucene-fst/)
 ## Elasticsearch
 
 * [《Elasticsearch学习，请先看这一篇！》](https://blog.csdn.net/laoyang360/article/details/52244917)
