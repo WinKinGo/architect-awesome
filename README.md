@@ -539,6 +539,8 @@ KMP：Knuth-Morris-Pratt算法（简称KMP）
 
 ## 剪枝算法
 * [《α-β剪枝算法》](https://blog.csdn.net/luningcsdn/article/details/50930276)
+* [《棋类博弈：极小化极大值》](https://iamddch.com.cn/2020/12/12/ChessAITheMinimaxAlgorithmAndAlphaBetaPruning/)
+* [五子棋](https://www.jianshu.com/p/8376efe0782d)
 
 ## 动态规划
 * [《详解动态规划——邹博讲动态规划》](https://www.cnblogs.com/little-YTMM/p/5372680.html)
